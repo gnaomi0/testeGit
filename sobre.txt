@@ -2,3 +2,5 @@ Oi, eu sou a Naomi. Estou aprendendendo a usar o Git. Este é meu primeiro teste
 Modificando o texto no GitHub!
 
 última alteração: feita no terminal :)
+
+Alteração no vscode - teste :)
